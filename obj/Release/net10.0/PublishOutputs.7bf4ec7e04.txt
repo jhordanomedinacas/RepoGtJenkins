@@ -1,0 +1,5 @@
+D:\Octavo ciclo\Calidad y pruebas\cnetjenkinsgithub\mi-proyecto\bin\Release\net10.0\publish\mi-proyecto.exe
+D:\Octavo ciclo\Calidad y pruebas\cnetjenkinsgithub\mi-proyecto\bin\Release\net10.0\publish\mi-proyecto.dll
+D:\Octavo ciclo\Calidad y pruebas\cnetjenkinsgithub\mi-proyecto\bin\Release\net10.0\publish\mi-proyecto.deps.json
+D:\Octavo ciclo\Calidad y pruebas\cnetjenkinsgithub\mi-proyecto\bin\Release\net10.0\publish\mi-proyecto.runtimeconfig.json
+D:\Octavo ciclo\Calidad y pruebas\cnetjenkinsgithub\mi-proyecto\bin\Release\net10.0\publish\mi-proyecto.pdb
